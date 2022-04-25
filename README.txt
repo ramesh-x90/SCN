@@ -1,7 +1,8 @@
-#SCN
+# SCN
+
 python screen recorder with on screen object detection
 
-#this PROJECT is only for Windows operating system
+# this PROJECT is only for Windows operating system
 
 This is use PyQt build UI
 
