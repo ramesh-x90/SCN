@@ -4,7 +4,7 @@ python screen recorder with on screen object detection
 
 # this PROJECT is only for Windows operating system
 
-This is use PyQt build UI
+This uses PyQt for UI
 
 object detection with yolov3 and cv2
 legecy openGL overlay to draw on screen
